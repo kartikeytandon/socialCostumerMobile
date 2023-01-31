@@ -1,0 +1,14 @@
+.hello {
+    /* border: 1px solid red; */
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 0.8rem 0 0.8rem;
+}
+.user-profile {
+    background-color: black;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+}

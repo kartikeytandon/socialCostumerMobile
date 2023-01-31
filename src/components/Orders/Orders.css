@@ -1,0 +1,17 @@
+.orderNav li {
+    list-style: none;
+    font-size: 0.8rem;
+}
+.orderBar {
+    display: flex;
+    align-items: center;
+    height: 8vh;
+    border-bottom: 4px solid #DADADA;
+    padding-left: 0.6rem;
+
+}
+.orderNav {
+    display: flex;
+    justify-content: space-around;
+    padding: 0.6rem;
+}

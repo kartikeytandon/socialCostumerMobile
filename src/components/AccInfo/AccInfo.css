@@ -1,0 +1,10 @@
+.accInfo {
+    padding: 1rem;
+    margin: 1rem;
+}
+.info {
+    margin-top: 1rem;
+}
+.info li {
+    list-style: none;
+}

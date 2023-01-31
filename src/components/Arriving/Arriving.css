@@ -1,0 +1,26 @@
+main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 0.4rem;
+    border-bottom: 4px solid #DADADA;
+    padding: 0.5rem;
+}
+.orderNav li {
+    list-style: none;
+    font-size: 0.8rem;
+}
+.orderBar {
+    display: flex;
+    align-items: center;
+    height: 8vh;
+    border-bottom: 4px solid #DADADA;
+    padding-left: 0.6rem;
+
+}
+.orderNav {
+    display: flex;
+    justify-content: space-around;
+    padding: 0.6rem;
+    color: #929292;
+}
